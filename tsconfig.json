@@ -1,0 +1,11 @@
+{
+    // "include": ["src/**/*.ts"],
+    "compilerOptions": {
+      "sourceMap": true,
+      "esModuleInterop":true,
+      "outDir": "./dist",
+      "baseUrl":".",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators":true,
+  },
+  }
